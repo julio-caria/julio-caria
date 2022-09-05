@@ -27,4 +27,11 @@
   <a href="https://br.linkedin.com/in/j%C3%BAlio-caria-8558b3248?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+
+<div>
+  <h3>Meus Projetos</h3>
+   <p>Relógio Digital Dinâmico: Clique <span><a href="https://julio-caria.github.io/Digital-Clock/">aqui</a></span>.</p>
+   <p>Tela de Login (Not Responsive): EM BREVE</p>
+
 ![Snake animation](https://github.com/julio-caria/julio-caria/blob/output/github-contribution-grid-snake.svg)
+
