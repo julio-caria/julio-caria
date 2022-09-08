@@ -4,7 +4,7 @@
 ## Sobre mim
 - 👤 Brasileiro, 17 anos...
 - 👨🏼‍🎓 Estudante universitário de Ciência da Computação (2º Semestre);
-- 📚 Estudando JavaScript e Java.
+- 📚 Estudando JavaScript.
 
 ## Stats
 <div align="center">
@@ -31,7 +31,7 @@
 <div>
   <h3>Meus Projetos</h3>
    <p>Relógio Digital Dinâmico: Clique <span><a href="https://julio-caria.github.io/Digital-Clock/">aqui</a></span>.</p>
-   <p>Tela de Login (Not Responsive): EM BREVE</p>
+   <p>Calculadora de Média - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/Digital-Clock/">aqui</a></span>.</p>
 
 ![Snake animation](https://github.com/julio-caria/julio-caria/blob/output/github-contribution-grid-snake.svg)
 
