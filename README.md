@@ -34,6 +34,7 @@
    <p>Calculadora de Média - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/Calculadora-de-Media/">aqui</a></span>.</p>
    <p>Conversor de Moeda - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/Conversor-de-Moeda/">aqui</a></span>.</p>
    <p>Mentalista - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/Mentalista/">aqui</a></span>.</p>
+   <p>Aluraflix - Imersão Dev Alura (My Resolution): Clique <span><a href=" https://julio-caria.github.io/AluraFlix/">aqui</a></span>.</p>
 </div> 
 
 ![Snake animation](https://github.com/julio-caria/julio-caria/blob/output/github-contribution-grid-snake.svg)
