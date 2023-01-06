@@ -2,7 +2,7 @@
 
 
 ## Sobre mim
-- 👤 Brasileiro, 17 anos...
+- 👤 Brasileiro, 18 anos...
 - 👨🏼‍🎓 Estudante universitário de Ciência da Computação (2º Semestre);
 - 📚 Estudando JavaScript.
 
