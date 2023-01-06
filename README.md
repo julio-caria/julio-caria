@@ -33,7 +33,7 @@
    <p>Relógio Digital Dinâmico: Clique <span><a href="https://julio-caria.github.io/Digital-Clock/">aqui</a></span>.</p>
    <p>Calculadora de Média - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/Calculadora-de-Media/">aqui</a></span>.</p>
    <p>NLW eSports 2022: Clique <span><a href="https://julio-caria.github.io/NLW-eSports-22/">aqui</a></span>.</p>
-  <p>FreeCodeCamp Resolução responsive magazine: Clique <span><a href="">aqui</a></span>.</p>
+  <p>FreeCodeCamp Resolução responsive magazine: Clique <span><a href="https://julio-caria.github.io/FreeCodeCamp---Magazine/">aqui</a></span>.</p>
    <p>Conversor de Moeda - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/Conversor-de-Moeda/">aqui</a></span>.</p>
    <p>Mentalista - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/Mentalista/">aqui</a></span>.</p>
    <p>Aluraflix - Imersão Dev Alura (My Resolution): Clique <span><a href="https://julio-caria.github.io/AluraFlix/">aqui</a></span>.</p>
