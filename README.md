@@ -4,7 +4,11 @@
 ## Sobre mim
 - 👤 Brasileiro, 18 anos...
 - 👨🏼‍🎓 Estudante universitário de Ciência da Computação (2º Semestre);
-- 📚 Estudando JavaScript.
+- 📚 Estudando JavaScript / React.
+
+### Um pouco mais sobre mim
+
+Estou construindo minha história na programação, procurando sair da minha zona de conforto, explorar coisas novas, buscando sempre conhecimento.
 
 ## Stats
 <div align="center">
