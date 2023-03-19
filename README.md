@@ -9,6 +9,9 @@
 ### Um pouco mais sobre mim
 
 Estou construindo minha história na programação, procurando sair da minha zona de conforto, explorar coisas novas, buscando sempre conhecimento.
+Criei meu interesse pela programação, por incrível que pareça, devido ao Minecraft, um jogo da Mojang, quando tinha por volta de 13 anos... 
+Conforme fui jogando, passando as tardes dentro daquele jogo quadrado, dentro dos mais diversos servidores criados pelos próprios jogadores, levantei a curiosidade, a vontade de desenvolver um servidor próprio. No entanto, não sabia como começar, não sabia pra onde olhar, comecei a conhecer um pouco de Java para os plugins e posteriormente JavaScript devido a curiosidade que tive pra desenvolver os Bots de Discord.
+Hoje, 5 anos depois, decidi investir mais nesses conhecimentos quando fiz amizades no ensino médio que me levaram ainda mais pra carreira da Programação, seguindo o caminho de Desenvolvimento Web.
 
 ## Stats
 <div align="center">
