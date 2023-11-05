@@ -1,9 +1,10 @@
-### Oopa!! Eu sou Júlio Caria, estudante universitário, a caminho para ser full-stack 😅
+### Oopa!! 
 
+Eu sou Júlio Caria, estudante universitário, a caminho para ser full-stack 😅
 
 ## Sobre mim
 - 👤 Brasileiro, 18 anos...
-- 👨🏼‍🎓 Estudante universitário de Ciência da Computação (2º Semestre);
+- 👨🏼‍🎓 Estudante universitário de Ciência da Computação (3º Semestre);
 - 📚 Estudando JavaScript / React.
 
 ### Um pouco mais sobre mim
