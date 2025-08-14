@@ -3,9 +3,9 @@
 Eu sou Júlio Caria, estudante universitário, a caminho para ser full-stack 😅
 
 ## Sobre mim
-- 👤 Brasileiro, 18 anos...
-- 👨🏼‍🎓 Estudante universitário de Ciência da Computação (3º Semestre);
-- 📚 Estudando JavaScript / React.
+- 👤 Brasileiro, 20 anos...
+- 👨🏼‍🎓 Estudante universitário de Sistemas para a Internet (2º Semestre);
+- 📚 Tenho foco no desenvolvimento de interfaces e na experiência de usuário, com grande interesse na área de desenvolvimento front-end e curiosidade pelo Back-end.
 
 ### Um pouco mais sobre mim
 
